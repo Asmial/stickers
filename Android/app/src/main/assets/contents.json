@@ -3,10 +3,10 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "1",
-      "name": "Cuppy",
-      "publisher": "Jane Doe",
-      "tray_image_file": "tray_Cuppy.png",
+      "identifier": "Albert OK",
+      "name": "Albert OK",
+      "publisher": "Dot",
+      "tray_image_file": "1545928740.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
@@ -15,186 +15,443 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "01_Cuppy_smile.webp",
+          "image_file": "1545928887.webp",
           "emojis": [
-            "☕",
-            "🙂"
+            "🐨"
           ]
         },
         {
-          "image_file": "02_Cuppy_lol.webp",
+          "image_file": "1545928935.webp",
           "emojis": [
-            "😄",
-            "😀"
+            "🐨"
           ]
         },
         {
-          "image_file": "03_Cuppy_rofl.webp",
+          "image_file": "1545929053.webp",
           "emojis": [
-            "😆",
-            "😂"
+            "🐨"
           ]
         },
         {
-          "image_file": "04_Cuppy_sad.webp",
+          "image_file": "1545929414.webp",
           "emojis": [
-            "😩",
-            "😰"
+            "🐨"
           ]
         },
         {
-          "image_file": "05_Cuppy_cry.webp",
+          "image_file": "1545929509.webp",
           "emojis": [
-            "😭",
-            "💧"
+            "🐨"
           ]
         },
         {
-          "image_file": "06_Cuppy_love.webp",
+          "image_file": "1547237775.webp",
           "emojis": [
-            "😍",
-            "♥"
+            "🐨"
           ]
         },
         {
-          "image_file": "07_Cuppy_hate.webp",
+          "image_file": "1557261811.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "🐨"
           ]
         },
         {
-          "image_file": "08_Cuppy_lovewithmug.webp",
+          "image_file": "1557262004.webp",
           "emojis": [
-            "😍",
-            "💑"
+            "🐨"
           ]
         },
         {
-          "image_file": "09_Cuppy_lovewithcookie.webp",
+          "image_file": "1557262853.webp",
           "emojis": [
-            "😘",
-            "🍪"
+            "🐨"
           ]
         },
         {
-          "image_file": "10_Cuppy_hmm.webp",
+          "image_file": "1557325438.webp",
           "emojis": [
-            "🤔",
-            "😐"
+            "🐨"
           ]
         },
         {
-          "image_file": "11_Cuppy_upset.webp",
+          "image_file": "1557325551.webp",
           "emojis": [
-            "😱",
-            "😵"
+            "🐨"
           ]
         },
         {
-          "image_file": "12_Cuppy_angry.webp",
+          "image_file": "1557325928.webp",
           "emojis": [
-            "😡",
-            "😠"
+            "🐨"
           ]
         },
         {
-          "image_file": "13_Cuppy_curious.webp",
+          "image_file": "1557326340.webp",
           "emojis": [
-            "❓",
-            "🤔"
+            "🐨"
           ]
         },
         {
-          "image_file": "14_Cuppy_weird.webp",
+          "image_file": "1557415684.webp",
           "emojis": [
-            "🌈",
-            "😜"
+            "🐨"
           ]
         },
         {
-          "image_file": "15_Cuppy_bluescreen.webp",
+          "image_file": "1557415869.webp",
           "emojis": [
-            "💻",
-            "😩"
+            "🐨"
           ]
         },
         {
-          "image_file": "16_Cuppy_angry.webp",
+          "image_file": "1558375410.webp",
           "emojis": [
-            "😡",
-            "😤"
+            "🐨"
           ]
         },
         {
-          "image_file": "17_Cuppy_tired.webp",
+          "image_file": "1565778548.webp",
           "emojis": [
-            "😩",
-            "😨"
+            "🐨"
           ]
         },
         {
-          "image_file": "18_Cuppy_workhard.webp",
+          "image_file": "1570554355.webp",
           "emojis": [
-            "💻",
-            "🌃"
+            "🐨"
           ]
         },
         {
-          "image_file": "19_Cuppy_shine.webp",
+          "image_file": "1570556867.webp",
           "emojis": [
-            "🎉",
-            "✨"
+            "🐨"
           ]
         },
         {
-          "image_file": "20_Cuppy_disgusting.webp",
+          "image_file": "1570568030.webp",
           "emojis": [
-            "🤮",
-            "👎"
+            "🐨"
           ]
         },
         {
-          "image_file": "21_Cuppy_hi.webp",
+          "image_file": "1570786279.webp",
           "emojis": [
-            "🖐",
-            "🙋"
+            "🐨"
           ]
         },
         {
-          "image_file": "22_Cuppy_bye.webp",
+          "image_file": "1576603542.webp",
           "emojis": [
-            "🖐",
-            "👋"
+            "🐨"
           ]
         },
         {
-          "image_file": "23_Cuppy_greentea.webp",
+          "image_file": "1576603778.webp",
           "emojis": [
-            "🍵",
-            "😌"
+            "🐨"
           ]
         },
         {
-          "image_file": "24_Cuppy_phone.webp",
+          "image_file": "1576603849.webp",
           "emojis": [
-            "📱",
-            "😦"
+            "🐨"
           ]
         },
         {
-          "image_file": "25_Cuppy_battery.webp",
+          "image_file": "1577705281.webp",
           "emojis": [
-            "🔋",
-            "😵"
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1577813528.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1578135640.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1578250788.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1578920824.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1578921518.webp",
+          "emojis": [
+            "🐨"
           ]
         }
       ]
     },
     {
-      "identifier": "2",
-      "name": "Together While Apart",
-      "publisher": "World Health Organization",
+      "identifier": "Pujegas",
+      "name": "Pujegas",
+      "publisher": "Tomilan",
+      "tray_image_file": "1578163952.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1578163966.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1578163978.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "blanksticker2.webp",
+          "emojis": [
+            "🐨"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "Pulgarzuela",
+      "name": "Pulgarzuela",
+      "publisher": "Dot",
+      "tray_image_file": "1557270550.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1557270685.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1557271198.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1557272064.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1561905677.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1561905741.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1561905795.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1561905839.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1561906052.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1568905509.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1568908045.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1568908057.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1568908067.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1568908076.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1568908092.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1568908106.webp",
+          "emojis": [
+            "🐨"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "Un tipo normal",
+      "name": "Un tipo normal",
+      "publisher": "Joan",
+      "tray_image_file": "1569519608.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1569519737.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1569519785.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1569519843.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1584301742.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1587025477.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1589306013.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1589306087.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1591275089.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1592938077.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1603665899.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1603665908.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1603665914.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1603665921.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1603665928.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1603665937.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1603665943.webp",
+          "emojis": [
+            "🐨"
+          ]
+        },
+        {
+          "image_file": "1603740218.webp",
+          "emojis": [
+            "🐨"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "BandersDot",
+      "name": "BandersDot",
+      "publisher": "gdie.necrospace.rocks",
       "tray_image_file": "01.png",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -205,7 +462,7 @@
       "animated_sticker_pack": true,
       "stickers": [
         {
-          "image_file": "01_SendingLove.webp",
+          "image_file": "dotcao.webp",
           "emojis": [
             "🥰",
             "😘",
@@ -213,7 +470,7 @@
           ]
         },
         {
-          "image_file": "02_WellDoThisTogether.webp",
+          "image_file": "aaa1.webp",
           "emojis": [
             "✊",
             "💪",
@@ -221,155 +478,89 @@
           ]
         },
         {
-          "image_file": "03_Heart.webp",
+          "image_file": "aaa2.webp",
           "emojis": [
             "❤️",
             "🥰",
             "💕"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "identifier": "MallorcaRadio",
+      "name": "Mallorca Radio",
+      "publisher": "YouTube",
+      "tray_image_file": "01.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
         {
-          "image_file": "04_AirHighFive.webp",
+          "image_file": "miango.webp",
           "emojis": [
-            "🖐",
-            "🙌",
-            "✋"
+            "🥰",
+            "😘",
+            "❤️"
           ]
         },
         {
-          "image_file": "05_GroupVideoCalling.webp",
+          "image_file": "miango1.webp",
           "emojis": [
-            "📱",
-            "👯",
-            "👋"
+            "✊",
+            "💪",
+            "🙏"
           ]
         },
         {
-          "image_file": "06_StayConnected.webp",
+          "image_file": "miango2.webp",
           "emojis": [
-            "📱",
-            "🙋‍♀",
-            "🙋‍♂"
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "TestAnim",
+      "name": "TestAnim",
+      "publisher": "TestAnim",
+      "tray_image_file": "01.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "l.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
           ]
         },
         {
-          "image_file": "07_OK.webp",
+          "image_file": "l2.webp",
           "emojis": [
-            "👍",
-            "👌",
-            "🙂"
+            "✊",
+            "💪",
+            "🙏"
           ]
         },
         {
-          "image_file": "08_AreYouOK.webp",
+          "image_file": "r.webp",
           "emojis": [
-            "👋",
-            "❓",
-            "📱"
-          ]
-        },
-        {
-          "image_file": "09_StayingHomeMug.webp",
-          "emojis": [
-            "☕",
-            "🍵",
-            "🏠"
-          ]
-        },
-        {
-          "image_file": "10_WorkingFromBed.webp",
-          "emojis": [
-            "👩‍💻",
-            "👨‍💻",
-            "🛏"
-          ]
-        },
-        {
-          "image_file": "11_StayCalm.webp",
-          "emojis": [
-            "🧘♀",
-            "🧘♂",
-            "🤙"
-          ]
-        },
-        {
-          "image_file": "12_Gymnastics.webp",
-          "emojis": [
-            "🤸",
-            "🐩",
-            "💪"
-          ]
-        },
-        {
-          "image_file": "13_DoubleChecking.webp",
-          "emojis": [
-            "📰",
-            "🔎",
-            "🔍"
-          ]
-        },
-        {
-          "image_file": "14_CatOnTheLaptop.webp",
-          "emojis": [
-            "🐈",
-            "🐱",
-            "💻"
-          ]
-        },
-        {
-          "image_file": "15_WorkingFromHomeF.webp",
-          "emojis": [
-            "👩‍💻",
-            "🏠",
-            "💻"
-          ]
-        },
-        {
-          "image_file": "16_WorkingFromHomeM.webp",
-          "emojis": [
-            "👨‍💻",
-            "🏠",
-            "💻"
-          ]
-        },
-        {
-          "image_file": "17_WashingHands.webp",
-          "emojis": [
-            "✋",
-            "💦",
-            "🧼"
-          ]
-        },
-        {
-          "image_file": "18_DontTouchYourFace.webp",
-          "emojis": [
-            "😷",
-            "🤒",
-            "🤧"
-          ]
-        },
-        {
-          "image_file": "19_SocialDistancing.webp",
-          "emojis": [
-            "😷",
-            "🤒",
-            "🏠"
-          ]
-        },
-        {
-          "image_file": "20_SuperheroNurse.webp",
-          "emojis": [
-            "👩‍⚕",
-            "👨‍⚕️",
-            "🩺"
-          ]
-        },
-        {
-          "image_file": "21_YouAreMyHero.webp",
-          "emojis": [
-            "🙏",
-            "🦸‍♀️",
-            "🦸"
+            "❤️",
+            "🥰",
+            "💕"
           ]
         }
       ]
